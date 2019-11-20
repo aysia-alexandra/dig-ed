@@ -7,13 +7,12 @@ rights: Public Domain
 source: Project Gutenburg
 publication-date: 1954
 ---
-RING ONCE FOR DEATH
 
 
-                    BY ROBERT ARTHUR
+                
 
 
-              Illustrator: Ernie Barth
+             
 
     The power of the old gods was certainly nothing for Mark and Edith a modern, 
     twentieth-century couple to worry about. After all everybody dies!
@@ -22,7 +21,6 @@ RING ONCE FOR DEATH
  *       *       *       *       *
 
 
-[Illustration:]
 
 Twenty years had left no trace inside Sam Kee's little shop on Mott
 Street. There were the same dusty jars of ginseng root and tigers'
