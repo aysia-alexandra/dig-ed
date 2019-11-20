@@ -21,6 +21,7 @@ publication-date: 1954
  *       *       *       *       *
 
 
+[Illustration:]
 
 Twenty years had left no trace inside Sam Kee's little shop on Mott
 Street. There were the same dusty jars of ginseng root and tigers'
